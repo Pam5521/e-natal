@@ -20,8 +20,6 @@ Rodar local em modo desenvolvedor
 
 O projeto disponibiliza um **Dockerfile** para execução em container, com variáveis de ambiente no seu .env apontando para *production* no deploy
 
-`API_KEY`
-
 ## Schemas
 ### Book
 ```javascript
